@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "simple-git": "^3.27.0",
+    "winston": "3.2.1"
+  }
+}

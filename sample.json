@@ -1,0 +1,19 @@
+{
+    "SaveResponse": {
+        "xmlns": "http://www.crmnext.com/api/",
+        "xmlns:s": "http://schemas.xmlsoap.org/soap/envelope/",
+        "SaveResult": {
+            "xmlns:i": "http://www.w3.org/2001/XMLSchema-instance",
+            "SaveResult": {
+                "IsSuccess": true,
+                "Message": "Success",
+                "objectKey": {
+                    "ItemKey": 257077669
+                },
+                "ApiObject": {
+                    "i:nil": true
+                }
+            }
+        }
+    }
+}
