@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 
+
 const whitelistedIPs = ['192.168.1.1', '::1']; // Add your trusted IPs here
 
 app.use(express.json()); // this is used because of the payload reading
